@@ -8,5 +8,5 @@ while i < len(string):
     elif string[i].islower():
         lower = lower + 1
     i = i + 1
-print( "Upper case:", upper)
+print("Upper case:", upper)
 print("Lower case:", lower)
